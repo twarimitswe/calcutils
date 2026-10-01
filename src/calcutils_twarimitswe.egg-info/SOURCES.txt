@@ -1,0 +1,8 @@
+LICENCE
+pyproject.toml
+src/calcutils_twarimitswe/__init__.py
+src/calcutils_twarimitswe/operations.py
+src/calcutils_twarimitswe.egg-info/PKG-INFO
+src/calcutils_twarimitswe.egg-info/SOURCES.txt
+src/calcutils_twarimitswe.egg-info/dependency_links.txt
+src/calcutils_twarimitswe.egg-info/top_level.txt
