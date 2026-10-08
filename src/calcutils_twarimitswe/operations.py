@@ -16,3 +16,7 @@ def average(numbers: list) -> float:
     if not numbers:
         return 0.0
     return sum(numbers) / len(numbers)
+
+    def swap(a,b):
+        a,b=b,a
+        return [a,b]
